@@ -1,2 +1,2 @@
 # src-web-app-ion
-web app source code
+This repo to hold Maven based Java Serverlet Pages source code 
